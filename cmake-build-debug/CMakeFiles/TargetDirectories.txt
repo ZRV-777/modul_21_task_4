@@ -1,0 +1,3 @@
+C:/develop/test/build/modul_21_task_4/cmake-build-debug/CMakeFiles/modul_21_task_4.dir
+C:/develop/test/build/modul_21_task_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/test/build/modul_21_task_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
